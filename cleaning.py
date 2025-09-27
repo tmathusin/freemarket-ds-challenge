@@ -12,12 +12,12 @@ def norm_name(x):
     return x
 
 def to_title(s):
-    # Basic title-casing for display purposes
+    # Title-casing for display purposes
     return " ".join(w.capitalize() for w in s.split())
 
 def standardise_counterparty_names(df, col, threshold = 0.9):
     """
-    Groups near-duplicates by simple pairwise SequenceMatcher on the *normalized* text.
+    Groups near-duplicates by simple pairwise SequenceMatcher on the normalized text.
     """
     normalized_names = df[col].fillna("").astype(str).map(norm_name)
 
