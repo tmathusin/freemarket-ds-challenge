@@ -1,0 +1,95 @@
+,counterparty,value_total,volume_total,role
+0,Afr Ex Nigeria,6811868.50557995,17,remitter
+1,Afriex Bamidele Ojo,798650.4151203168,2,remitter
+2,Afriex Global Remit,714300.0,39,remitter
+3,Afriex Ltd,11094685.897617178,14,remitter
+4,Afrx Pay,1682461.7452299844,28,remitter
+5,Company 15,9552525.856150897,77,remitter
+6,Company 29,5302613.74179,47,remitter
+7,Company 8,1270365.2342798521,2,remitter
+8,D P O Group Sa,1882729.344,3,remitter
+9,Dahab Shiil Intl,8379290.822000001,9,remitter
+10,Dahab Shiil Somalia,5011696.967999999,1,remitter
+11,Dahabshiil Amina Ali,2156618.3629004294,13,remitter
+12,Dahabshiil Ltd,9329219.854560073,31,remitter
+13,Dhb Shiil Uk,2320851.8021597858,11,remitter
+14,Dpo Kenya Ltd,4620550.837147387,22,remitter
+15,Dpo Payments Nairobi,969500.0,3,remitter
+16,Dpogroup Ltd,50456388.19898617,32,remitter
+17,Dpogrp John Karanja,920000.0,4,remitter
+18,Ever Send App,6957274.445,6,remitter
+19,Eversend Fintech Ltd,580342.6225997785,2,remitter
+20,Eversend Grace Atim,853961.61975,2,remitter
+21,Eversend Uganda Ltd,27179043.695630923,12,remitter
+22,Evrsnd Kampala,3216598.5887590116,7,remitter
+23,Flutter Wave Ng,52608934.133,50,remitter
+24,Flutterwave C O Adeola John,1802726.5457585063,1,remitter
+25,Flutterwave Ltd,584439605.559,276,remitter
+26,Flutterwave Payments Nig,6217437.152,103,remitter
+27,Flwave Lagos,34706942.436,43,remitter
+28,Int Sw Lagos Branch,8459000.0,13,remitter
+29,Inter Switch Nig,8164727.59238035,51,remitter
+30,Interswitch C O Musa Ibrahim,11770216.742999999,5,remitter
+31,Interswitch Ltd,123426855.01184845,56,remitter
+32,Interswitch Payments Plc,1501392.3056297775,8,remitter
+33,M Pesa Kenya Ltd,43450472.13372,199,remitter
+34,M Pesa Nairobi,7689897.317,19,remitter
+35,Mpesa C O Joseph Mwangi,2022601.337679088,4,remitter
+36,Mpesa Safaricom,57791075.56966446,36,remitter
+37,Mps Kenya Saf,492435.7979901007,3,remitter
+38,N Sano Operational,16437700.0,42,remitter
+39,Nsano Accra,38418229.231,13,remitter
+40,Nsano Gh Ltd,40182839.542,22,remitter
+41,Nsano Kwame Ofori,3683325.921,10,remitter
+42,Nsano Tech Ltd,3596547.9117897777,18,remitter
+43,Paystack Jide Abiola,1173339.9842202386,6,remitter
+44,Paystack Ng Ltd,792613.360339978,25,remitter
+45,Paystack Nigeria Ltd,207753930.247,123,remitter
+46,Paystak Hq,10662115.673,22,remitter
+47,Pstk Technologies Lagos,2727201.1,58,remitter
+48,Remitter 100,20632.218750000702,1,remitter
+49,Remitter 119,699728.9091499998,31,remitter
+50,Remitter 127,1025587.2849599965,77,remitter
+51,Remitter 143,1873156.5427900122,57,remitter
+52,Remitter 155,29106.49539999904,4,remitter
+53,Remitter 166,22972.641700000007,10,remitter
+54,Remitter 18,7631537.91416008,187,remitter
+55,Remitter 29,920854.6851800036,14,remitter
+56,Remitter 33,1222457.713339978,32,remitter
+57,Remitter 44,797784.2939000056,28,remitter
+58,Remitter 56,3693469.3401200133,93,remitter
+59,Remitter 77,1407088.331019972,62,remitter
+60,Send Wave Africa,5640000.0,18,remitter
+61,Sendwave App Ltd,269402.74612000305,10,remitter
+62,Sendwave Inc,8039587.238720009,36,remitter
+63,Sendwave Peter Okoye,418000.0,12,remitter
+64,Sndwv Mobile,4439060.339415119,6,remitter
+65,Beneficiary 18,5412930.585639995,703,beneficiary
+66,Beneficiary 27,4036306.16777999,1147,beneficiary
+67,Beneficiary 3,291717479.5978598,1504,beneficiary
+68,Bit Panda At,6998395.972359691,72,beneficiary
+69,Bit Stamp Lux,74153771.44155967,64,beneficiary
+70,Bitpanda Gmbh,70374667.49714026,40,beneficiary
+71,Bitpanda Lukas Steiner,3062139.227839557,64,beneficiary
+72,Bitpanda Vienna,2474451.2418599846,92,beneficiary
+73,Bitstamp Europe S A,559556900.069352,324,beneficiary
+74,Bitstamp Jan Novak,10766020.015279604,44,beneficiary
+75,Bitstamp Ltd Uk,4006115.9453597623,14,beneficiary
+76,Bstmp Exch,42208600.10821807,87,beneficiary
+77,Btpnd Exchange,3274816.436689978,43,beneficiary
+78,Cbase Ireland,42213476.83808609,170,beneficiary
+79,Coinbase Europe Ltd,164815671.44890028,324,beneficiary
+80,Coinbase Ireland Ltd,2393617.703500011,70,beneficiary
+81,Coinbase Pierre Dupont,2565693.2846699846,53,beneficiary
+82,Company 3,77000716.12469761,249,beneficiary
+83,Company 5,550522.8328399963,65,beneficiary
+84,Kraken Europe Ltd,321542574.0071557,267,beneficiary
+85,Kraken Exch Berlin,3708236.9144300516,44,beneficiary
+86,Kraken Fin De,52250631.667508446,85,beneficiary
+87,Kraken Sofia M Ller,9267440.230421636,37,beneficiary
+88,Krkn Ireland,51733040.595,3,beneficiary
+89,Pax Os Eu,96065824.35953994,68,beneficiary
+90,Paxos Europe Ltd,59619422.224,62,beneficiary
+91,Paxos Maria Rossi,2036456.5012400127,53,beneficiary
+92,Paxos Uk Ltd,1697209.3155600086,83,beneficiary
+93,Pxos Payments,10039542.860831581,37,beneficiary

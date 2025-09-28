@@ -1,0 +1,95 @@
+counterparty,role,value_total,volume_total,quadrant
+Flutterwave Ltd,remitter,584439605.559,276,High Value / High Volume
+Bitstamp Europe S A,beneficiary,559556900.069352,324,High Value / High Volume
+Kraken Europe Ltd,beneficiary,321542574.0071557,267,High Value / High Volume
+Beneficiary 3,beneficiary,291717479.5978598,1504,High Value / High Volume
+Paystack Nigeria Ltd,remitter,207753930.247,123,High Value / High Volume
+Coinbase Europe Ltd,beneficiary,164815671.44890028,324,High Value / High Volume
+Interswitch Ltd,remitter,123426855.01184845,56,High Value / High Volume
+Pax Os Eu,beneficiary,96065824.35953994,68,High Value / High Volume
+Company 3,beneficiary,77000716.12469761,249,High Value / High Volume
+Bit Stamp Lux,beneficiary,74153771.44155967,64,High Value / High Volume
+Bitpanda Gmbh,beneficiary,70374667.49714026,40,High Value / High Volume
+Paxos Europe Ltd,beneficiary,59619422.224,62,High Value / High Volume
+Mpesa Safaricom,remitter,57791075.56966446,36,High Value / High Volume
+Flutter Wave Ng,remitter,52608934.133,50,High Value / High Volume
+Kraken Fin De,beneficiary,52250631.667508446,85,High Value / High Volume
+Krkn Ireland,beneficiary,51733040.595,3,High Value / Low Volume
+Dpogroup Ltd,remitter,50456388.19898617,32,High Value / Low Volume
+M Pesa Kenya Ltd,remitter,43450472.13372,199,High Value / High Volume
+Cbase Ireland,beneficiary,42213476.83808609,170,High Value / High Volume
+Bstmp Exch,beneficiary,42208600.10821807,87,High Value / High Volume
+Nsano Gh Ltd,remitter,40182839.542,22,High Value / Low Volume
+Nsano Accra,remitter,38418229.231,13,High Value / Low Volume
+Flwave Lagos,remitter,34706942.436,43,High Value / High Volume
+Eversend Uganda Ltd,remitter,27179043.695630923,12,High Value / Low Volume
+N Sano Operational,remitter,16437700.0,42,High Value / High Volume
+Interswitch C O Musa Ibrahim,remitter,11770216.742999999,5,High Value / Low Volume
+Afriex Ltd,remitter,11094685.897617178,14,High Value / Low Volume
+Bitstamp Jan Novak,beneficiary,10766020.015279604,44,High Value / High Volume
+Paystak Hq,remitter,10662115.673,22,High Value / Low Volume
+Pxos Payments,beneficiary,10039542.860831581,37,High Value / High Volume
+Company 15,remitter,9552525.856150897,77,High Value / High Volume
+Dahabshiil Ltd,remitter,9329219.854560073,31,High Value / Low Volume
+Kraken Sofia M Ller,beneficiary,9267440.230421636,37,High Value / High Volume
+Int Sw Lagos Branch,remitter,8459000.0,13,High Value / Low Volume
+Dahab Shiil Intl,remitter,8379290.822000001,9,High Value / Low Volume
+Inter Switch Nig,remitter,8164727.59238035,51,High Value / High Volume
+Sendwave Inc,remitter,8039587.238720009,36,High Value / High Volume
+M Pesa Nairobi,remitter,7689897.317,19,High Value / Low Volume
+Remitter 18,remitter,7631537.91416008,187,High Value / High Volume
+Bit Panda At,beneficiary,6998395.972359691,72,High Value / High Volume
+Ever Send App,remitter,6957274.445,6,High Value / Low Volume
+Afr Ex Nigeria,remitter,6811868.50557995,17,High Value / Low Volume
+Flutterwave Payments Nig,remitter,6217437.152,103,High Value / High Volume
+Send Wave Africa,remitter,5640000.0,18,High Value / Low Volume
+Beneficiary 18,beneficiary,5412930.585639995,703,High Value / High Volume
+Company 29,remitter,5302613.74179,47,High Value / High Volume
+Dahab Shiil Somalia,remitter,5011696.967999999,1,High Value / Low Volume
+Dpo Kenya Ltd,remitter,4620550.837147387,22,Low Value / Low Volume
+Sndwv Mobile,remitter,4439060.339415119,6,Low Value / Low Volume
+Beneficiary 27,beneficiary,4036306.16777999,1147,Low Value / High Volume
+Bitstamp Ltd Uk,beneficiary,4006115.9453597623,14,Low Value / Low Volume
+Kraken Exch Berlin,beneficiary,3708236.9144300516,44,Low Value / High Volume
+Remitter 56,remitter,3693469.3401200133,93,Low Value / High Volume
+Nsano Kwame Ofori,remitter,3683325.921,10,Low Value / Low Volume
+Nsano Tech Ltd,remitter,3596547.9117897777,18,Low Value / Low Volume
+Btpnd Exchange,beneficiary,3274816.436689978,43,Low Value / High Volume
+Evrsnd Kampala,remitter,3216598.5887590116,7,Low Value / Low Volume
+Bitpanda Lukas Steiner,beneficiary,3062139.227839557,64,Low Value / High Volume
+Pstk Technologies Lagos,remitter,2727201.1,58,Low Value / High Volume
+Coinbase Pierre Dupont,beneficiary,2565693.2846699846,53,Low Value / High Volume
+Bitpanda Vienna,beneficiary,2474451.2418599846,92,Low Value / High Volume
+Coinbase Ireland Ltd,beneficiary,2393617.703500011,70,Low Value / High Volume
+Dhb Shiil Uk,remitter,2320851.8021597858,11,Low Value / Low Volume
+Dahabshiil Amina Ali,remitter,2156618.3629004294,13,Low Value / Low Volume
+Paxos Maria Rossi,beneficiary,2036456.5012400127,53,Low Value / High Volume
+Mpesa C O Joseph Mwangi,remitter,2022601.337679088,4,Low Value / Low Volume
+D P O Group Sa,remitter,1882729.344,3,Low Value / Low Volume
+Remitter 143,remitter,1873156.5427900122,57,Low Value / High Volume
+Flutterwave C O Adeola John,remitter,1802726.5457585063,1,Low Value / Low Volume
+Paxos Uk Ltd,beneficiary,1697209.3155600086,83,Low Value / High Volume
+Afrx Pay,remitter,1682461.7452299844,28,Low Value / Low Volume
+Interswitch Payments Plc,remitter,1501392.3056297775,8,Low Value / Low Volume
+Remitter 77,remitter,1407088.331019972,62,Low Value / High Volume
+Company 8,remitter,1270365.2342798521,2,Low Value / Low Volume
+Remitter 33,remitter,1222457.713339978,32,Low Value / Low Volume
+Paystack Jide Abiola,remitter,1173339.9842202386,6,Low Value / Low Volume
+Remitter 127,remitter,1025587.2849599965,77,Low Value / High Volume
+Dpo Payments Nairobi,remitter,969500.0,3,Low Value / Low Volume
+Remitter 29,remitter,920854.6851800036,14,Low Value / Low Volume
+Dpogrp John Karanja,remitter,920000.0,4,Low Value / Low Volume
+Eversend Grace Atim,remitter,853961.61975,2,Low Value / Low Volume
+Afriex Bamidele Ojo,remitter,798650.4151203168,2,Low Value / Low Volume
+Remitter 44,remitter,797784.2939000056,28,Low Value / Low Volume
+Paystack Ng Ltd,remitter,792613.360339978,25,Low Value / Low Volume
+Afriex Global Remit,remitter,714300.0,39,Low Value / High Volume
+Remitter 119,remitter,699728.9091499998,31,Low Value / Low Volume
+Eversend Fintech Ltd,remitter,580342.6225997785,2,Low Value / Low Volume
+Company 5,beneficiary,550522.8328399963,65,Low Value / High Volume
+Mps Kenya Saf,remitter,492435.7979901007,3,Low Value / Low Volume
+Sendwave Peter Okoye,remitter,418000.0,12,Low Value / Low Volume
+Sendwave App Ltd,remitter,269402.74612000305,10,Low Value / Low Volume
+Remitter 155,remitter,29106.49539999904,4,Low Value / Low Volume
+Remitter 166,remitter,22972.641700000007,10,Low Value / Low Volume
+Remitter 100,remitter,20632.218750000702,1,Low Value / Low Volume
