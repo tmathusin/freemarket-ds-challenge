@@ -13,7 +13,7 @@ def bar_top_series(df: pd.DataFrame, label_col: str, value_col: str, top_n=15, t
     plt.tight_layout()
 
 
-def plot_network(
+def plot_network_strength(
     G: nx.DiGraph,
     nodes_df: pd.DataFrame,
     out_path_base: str,

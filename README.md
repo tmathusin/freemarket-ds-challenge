@@ -6,13 +6,13 @@
 Code Test/
 ├─ fmfx_solution.ipynb
 ├─ requirements.txt
-├─ script/
-│  ├─ __init__.py
-│  ├─ cleaning.py
-│  ├─ network.py
-│  └─ viz.py
-└─ data/
-   └─ Test for Data Science role.xlsx
+├─ __init__.py  
+├─ cleaning.py
+├─ network.py
+├─ viz.py
+├─ data/
+│  └─ Test for Data Science role.xlsx
+└─ output/
 ```
 
 ## Setup & Run (Windows PowerShell)
