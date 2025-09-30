@@ -1,5 +1,6 @@
 import math
 import numpy as np
+import pandas as pd
 import matplotlib.pyplot as plt
 import matplotlib.patches as mpatches
 import networkx as nx
@@ -13,7 +14,7 @@ def bar_top_series(df: pd.DataFrame, label_col: str, value_col: str, top_n=15, t
     plt.tight_layout()
 
 
-def plot_network_strength(
+def plot_network(
     G: nx.DiGraph,
     nodes_df: pd.DataFrame,
     out_path_base: str,
